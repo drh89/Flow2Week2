@@ -10,7 +10,7 @@ The source code is <a href ="https://github.com/drh89/Flow2Week2/tree/master/AJA
   
 <h1>Thursday</h1>
 Made the all the assignments.
-The source code for frontend is <a href ="https://github.com/drh89/Flow2Week2/tree/master/SOPandCORSFront"> here<a/>
+The source code for frontend is <a href ="https://github.com/drh89/Flow2Week2/tree/master/SOPandCORSFront"> here<a/><br>
 The source code for backend is  <a href ="https://github.com/drh89/Flow2Week2/tree/master/SOPandCORSback"> here<a/>
   
   
