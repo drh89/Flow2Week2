@@ -12,7 +12,7 @@ The source code is <a href ="https://github.com/drh89/Flow2Week2/tree/master/AJA
 Made the all the assignments.<br>
 The source code for frontend is <a href ="https://github.com/drh89/Flow2Week2/tree/master/SOPandCORSFront"> here<a/><br>
 The source code for backend is  <a href ="https://github.com/drh89/Flow2Week2/tree/master/SOPandCORSback"> here<a/><br>
-http://cphbusines.surge.sh/  
+  Deployed <a href = "http://cphbusines.surge.sh/">here</a> 
   
   
 
